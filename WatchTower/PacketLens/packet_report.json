@@ -1,0 +1,27 @@
+[
+    {
+        "check": "DNS query",
+        "severity": "INFO",
+        "message": "example.com"
+    },
+    {
+        "check": "DNS query",
+        "severity": "INFO",
+        "message": "google.com"
+    },
+    {
+        "check": "HTTP host",
+        "severity": "INFO",
+        "message": "example.com"
+    },
+    {
+        "check": "HTTP host",
+        "severity": "INFO",
+        "message": "neverssl.com"
+    },
+    {
+        "check": "Beaconing",
+        "severity": "HIGH",
+        "message": "Possible beaconing to 10.0.0.99"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "check": "Content-Security-Policy",
+        "severity": "MEDIUM",
+        "message": "MISSING"
+    },
+    {
+        "check": "X-Frame-Options",
+        "severity": "MEDIUM",
+        "message": "MISSING"
+    },
+    {
+        "check": "X-Content-Type-Options",
+        "severity": "MEDIUM",
+        "message": "MISSING"
+    },
+    {
+        "check": "Strict-Transport-Security",
+        "severity": "MEDIUM",
+        "message": "MISSING"
+    },
+    {
+        "check": "SSL expiry",
+        "severity": "OK",
+        "message": "Cert expires in 45 days"
+    },
+    {
+        "check": "SQL Injection Reflection Check",
+        "severity": "OK",
+        "message": "No SQL error reflection"
+    },
+    {
+        "check": "Port 80 Status",
+        "severity": "INFO",
+        "message": "Port 80 OPEN"
+    },
+    {
+        "check": "Port 443 Status",
+        "severity": "INFO",
+        "message": "Port 443 OPEN"
+    },
+    {
+        "check": "Port 8080 Status",
+        "severity": "INFO",
+        "message": "Port 8080 OPEN"
+    },
+    {
+        "check": "Port 8443 Status",
+        "severity": "INFO",
+        "message": "Port 8443 OPEN"
+    }
+]

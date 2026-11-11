@@ -1,0 +1,2 @@
+{"time": "Nov 10 10:16:45", "ip": "192.168.1.50", "severity": "MEDIUM", "reason": "Brute force signature detected: 5 failed logins within a 10 - minute window."}
+{"time": "Nov 10 10:18:05", "ip": "192.168.1.50", "severity": "CRITICAL", "reason": "Possible successful brute force: 5 failures followed by a successful login within 10 minutes"}
